@@ -1,4 +1,4 @@
-# pipeline_handover
+# Pipeline Handover
 
 ## Git Workflow
 ### XFES
@@ -38,12 +38,14 @@
 | Tag images              | Tag images              |
 | Store manifests         | Store manifests         |
 
-git:
+## CLI Tools
+### git
   - merge
   - diff
   - log
   - revert
   - reset
+  - push
   
-mvn:
+### mvn
   - deploy
